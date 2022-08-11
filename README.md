@@ -4,7 +4,7 @@ I'm Pablo, I'm from Chile and I'm a Software Engineer.
 
 ## Skills
 
-* Java coding, some Go coding.
+* Java coding, some Node and Go coding.
 * Experience in Docker, Kubernetes.
 * Clean Coding practices.
 * Some favorites languages/tools:
