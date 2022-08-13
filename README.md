@@ -1,6 +1,6 @@
 ### Hello World!! 👋
 
-I'm Pablo, I'm from Chile and I'm a Software Engineer.
+I'm Pablo, I'm from Chillán, Chile and I'm a Software Engineer.
 
 ## Skills
 
