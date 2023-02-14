@@ -25,7 +25,6 @@ I'm Pablo, I'm from Chillán, Chile and I'm a Software Engineer.
 
 
 
-More information [here](https://pablosilvab.github.io/).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [stats-1]: https://github-readme-stats.vercel.app/api/top-langs/?username=pablosilvab&theme=blue-green
