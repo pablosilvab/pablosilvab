@@ -23,7 +23,9 @@ I'm Pablo, I'm from Chillán, Chile and I'm a Software Engineer.
 [![Gmail][gmail]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+## Other
 
+[![roadmap.sh](https://roadmap.sh/card/tall/669095d07fc121949a181673?variant=dark)](https://roadmap.sh)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
